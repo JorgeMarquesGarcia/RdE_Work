@@ -1,0 +1,5 @@
+Wire
+WiFi
+bblanchon/ArduinoJson@^7.4.1
+knolleary/PubSubClient@^2.8
+ldab/esp32_ftpclient@^0.1.4
